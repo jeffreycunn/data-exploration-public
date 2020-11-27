@@ -1,2 +1,2 @@
 # data-exploration-public
-Python scripts for exploring data
+Jupyter Notebooks and Python for exploring data.
